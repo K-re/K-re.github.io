@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+A student at the University of British Columbia and self-titled Cyborg Geographer.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+A place to include any other types of information that I'd like to include about myself. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[k.eckert at alumni.ubc.ca](mailto:k.eckert-at-alumni.ubc.ca)
